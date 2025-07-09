@@ -75,7 +75,7 @@ import {
   verifyAccessToken,
   rotateRefreshToken,
   requireAuth
-} from '@your-org/jwt-refresh-helper';
+} from '@jwt-refresh-helper';
 
 const app = express();
 
