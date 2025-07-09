@@ -18,12 +18,6 @@ A small, reusable TypeScript/Node.js library for issuing, verifying, and rotatin
 - **Express Middleware**  
   `requireAuth` to guard any route by verifying the access token.
 
-- **TypeScript-First**  
-  Fully typed payloads, interfaces, and function signatures.
-
-- **Jest Tests Included**  
-  Coverage for signing, verification, and rotation logic.
-
 ---
 
 ## Technologies
